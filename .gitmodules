@@ -30,7 +30,7 @@
 	registered = true
 [submodule "Opportunistic"]
 	path = Opportunistic
-	url = https://github.com/cran/Opportunistic
+	url = https://github.com/chedgala/opportunistic
 	shallow = true
 	registered = true
 [submodule "qrLMM"]
