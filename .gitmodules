@@ -1,45 +1,28 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ald"]
 	path = ald
 	url = https://github.com/cran/ald
-	shallow = true
-	registered = true
 [submodule "endtoend"]
 	path = endtoend
 	url = https://github.com/cran/endtoend
-	shallow = true
-	registered = true
 [submodule "hopbyhop"]
 	path = hopbyhop
 	url = https://github.com/cran/hopbyhop
-	shallow = true
-	registered = true
 [submodule "lqr"]
 	path = lqr
 	url = https://github.com/cran/lqr
-	shallow = true
-	registered = true
 [submodule "MomTrunc"]
 	path = MomTrunc
 	url = https://github.com/chedgala/momtrunc
-	shallow = true
-	registered = true
 [submodule "Opportunistic"]
 	path = Opportunistic
 	url = https://github.com/chedgala/opportunistic
-	shallow = true
-	registered = true
 [submodule "qrLMM"]
 	path = qrLMM
 	url = https://github.com/cran/qrLMM
-	shallow = true
-	registered = true
 [submodule "qrNLMM"]
 	path = qrNLMM
 	url = https://github.com/cran/qrNLMM
-	shallow = true
-	registered = true
