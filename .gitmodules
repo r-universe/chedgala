@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "MomTrunc"]
+	path = MomTrunc
+	url = https://github.com/chedgala/momtrunc
+[submodule "Opportunistic"]
+	path = Opportunistic
+	url = https://github.com/chedgala/opportunistic
 [submodule "ald"]
 	path = ald
 	url = https://github.com/cran/ald
@@ -14,12 +20,6 @@
 [submodule "lqr"]
 	path = lqr
 	url = https://github.com/cran/lqr
-[submodule "MomTrunc"]
-	path = MomTrunc
-	url = https://github.com/chedgala/momtrunc
-[submodule "Opportunistic"]
-	path = Opportunistic
-	url = https://github.com/chedgala/opportunistic
 [submodule "qrLMM"]
 	path = qrLMM
 	url = https://github.com/cran/qrLMM
