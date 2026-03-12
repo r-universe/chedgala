@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "ModalCens"]
+	path = ModalCens
+	url = https://github.com/chedgala/modalcens
 [submodule "MomTrunc"]
 	path = MomTrunc
 	url = https://github.com/chedgala/momtrunc
