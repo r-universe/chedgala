@@ -5,6 +5,9 @@
 [submodule "ModalCens"]
 	path = ModalCens
 	url = https://github.com/chedgala/modalcens
+[submodule "ModalForecast"]
+	path = ModalForecast
+	url = https://github.com/chedgala/modalforecast
 [submodule "MomTrunc"]
 	path = MomTrunc
 	url = https://github.com/chedgala/momtrunc
