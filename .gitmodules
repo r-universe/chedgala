@@ -8,6 +8,9 @@
 [submodule "ModalForecast"]
 	path = ModalForecast
 	url = https://github.com/chedgala/modalforecast
+[submodule "ModalNet"]
+	path = ModalNet
+	url = https://github.com/chedgala/modalnet
 [submodule "MomTrunc"]
 	path = MomTrunc
 	url = https://github.com/chedgala/momtrunc
